@@ -1,0 +1,39 @@
+.conteudo{
+    position: relative;
+    height: calc(100vh - 340px);
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    font-size: 1.6em;
+}
+
+
+.navegacao{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background: #380025;
+    color: #fff;
+    padding: 1em 1.5em;
+    
+}
+
+.navegacao a{
+    background: #af6204;
+    color: #fff;
+    padding: 0.5em 1.5em;
+    margin-left: 1em;;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+h4{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+hr{
+    margin-bottom: 20px;
+}
