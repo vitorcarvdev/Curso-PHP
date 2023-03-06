@@ -24,16 +24,11 @@
     <main class="principal">
         <div class="conteudo">
 
-                <h4>Titulo</h4>
-                <hr>
                 <?php
-
-                // include chama pelo codigo uma página interna
-                // include ("teste.php");
 
                 // include com GET chama uma página pelo URL, neste caso o sobre.php que esta na pasta paginternas:
                 // exercicio.php?dir=paginternas&file=sobre
-                // include ($_GET['dir'] . "/" . $_GET['file'] . ".php");
+                include ($_GET['dir'] . "/" . $_GET['file'] . ".php");
 
                 ?>
 
