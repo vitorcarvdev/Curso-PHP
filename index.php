@@ -71,8 +71,22 @@
                     <ul>
                     <li><a href="exercicio.php?dir=array&file=basico">Basico Array</a></li>
                     <li><a href="exercicio.php?dir=array&file=mapa">Mapa Array</a></li>
-                    <li><a href="exercicio.php?dir=array&file=desafiosorteio">Desafio Sorteio</a></li>
+                    </ul>
+                </div><!--Final Módulo-->
 
+                <div class="modulos">
+                    <h3>6. Tratando Erros</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=erros&file=basico">Try / Catch</a></li>
+                        <li><a href="exercicio.php?dir=erros&file=throw">Classe + Throw</a></li>
+                    </ul>
+                </div><!--Final Módulo-->
+
+                <div class="modulos">
+                    <h3>Sessão e Cookie</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Basico sobre Sessão</a></li>
+                        <li><a href="#">Exercicio B</a></li>
                     </ul>
                 </div><!--Final Módulo-->
 

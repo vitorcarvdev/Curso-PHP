@@ -120,9 +120,9 @@ h1, h2, h3, h4, h5, h6{margin-bottom: 20px; line-height: 1.5em;}
     }
 
     .modulos{
-        flex-basis: 31%; /* width com tamanho maximo */
+        flex-basis: 23%; /* width com tamanho maximo */
         border:1px solid  #320270;
-        margin: 1%;;
+        margin: 0.5%;
     }
 
     .modulos li a{
